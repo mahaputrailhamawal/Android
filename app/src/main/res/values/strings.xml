@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daftar Pemain Sepak Bola</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="detail">Detail</string>
+    <string name="dt_player_name">Nama Pemain</string>
+    <string name="id_detail">Detail</string>
+    <string name="completed">Berhasil</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="author">Mahaputra Ilham Awal</string>
+    <string name="email">mahaputrailhamawal@gmail.com</string>
+</resources>
